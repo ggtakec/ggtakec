@@ -47,7 +47,6 @@ I am an engineer at Yahoo! JAPAN (LY Corporation) and have been working on Inter
 
 ## ⚡ My GitHub Stats
 [![ggtakec's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggtakec&show_icons=true&theme=algolia&rank_icon=github)](#)  
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ggtakec&layout=compact)](#)
 
 ## 💬 Consulting
 I can help you with consulting on free software(mainly s3fs-fuse).  
